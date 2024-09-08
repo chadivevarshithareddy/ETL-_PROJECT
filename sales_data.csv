@@ -1,0 +1,6 @@
+Order ID,Product,Quantity,Price,Date
+1,Pen,10,1.50,2023-01-10
+2,Notebook,5,,2023-01-11
+3,Pencil,,0.80,2023-01-12
+4,Marker,8,2.50,
+5,Eraser,15,0.50,2023-01-14
